@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.local
+.exampro-mongo/
+*.log
+.DS_Store
